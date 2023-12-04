@@ -10,7 +10,7 @@ In order to test the civrealm on <http://localhost>, please download the docker 
 
 > :warning:
 > Please make sure you have installed **the latest** docker engine and docker-compose.
-> Using older versions of docker may result in unexpected erorrs.
+> Using older versions of docker may result in unexpected errors.
 
 ## Installation
 
