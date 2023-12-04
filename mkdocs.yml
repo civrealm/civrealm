@@ -54,7 +54,13 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js
 
 nav:
-  - Getting Started: index.md
+  - Home: index.md
+  - Getting Started:
+      - Install and Setup:
+          - System requirements: getting_started/system_requirements.md
+          - Installation: getting_started/installation.md
+      - Quick Start: getting_started/quickstart.md
+      - Trouble Shooting: getting_started/trouble_shooting.md
   - Advanced Materials:
       - Game:
           - Game Setting: advanced_materials/game_setting.md
